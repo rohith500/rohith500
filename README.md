@@ -7,5 +7,3 @@
 - 💬 Ask me about **Machine Learning, Cloud Computing, Devops and much more!!**
 
 - 📫 How to reach me **rohithreddy2202@gmail.com**
-
-- 📄 Know about my experiences [RESUME - ]
